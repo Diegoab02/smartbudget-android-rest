@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartBudget</string>
+    <string name="titulo_buscar">Buscar producto</string>
+    <string name="title_optimizar">Compra optimizada</string>
+    <string name="hint_consulta">Ej.: audífonos bluetooth</string>
+    <string name="hint_presupuesto">Presupuesto (COP)</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_favorito">Favorito</string>
+    <string name="btn_optimizar">Optimizar</string>
+</resources>
